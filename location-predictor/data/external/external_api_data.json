@@ -1,0 +1,36 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "name": "Central Park",
+            "latitude": 40.785091,
+            "longitude": -73.968285,
+            "type": "park",
+            "description": "A large public park in New York City."
+        },
+        {
+            "id": 2,
+            "name": "Eiffel Tower",
+            "latitude": 48.858844,
+            "longitude": 2.294351,
+            "type": "monument",
+            "description": "A wrought-iron lattice tower on the Champ de Mars in Paris, France."
+        },
+        {
+            "id": 3,
+            "name": "Great Wall of China",
+            "latitude": 40.431908,
+            "longitude": 116.570374,
+            "type": "historical site",
+            "description": "A series of fortifications made of various materials, built along the northern borders of China."
+        },
+        {
+            "id": 4,
+            "name": "Sydney Opera House",
+            "latitude": -33.856784,
+            "longitude": 151.215297,
+            "type": "cultural site",
+            "description": "A multi-venue performing arts center in Sydney, Australia."
+        }
+    ]
+}
